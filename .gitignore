@@ -1,0 +1,29 @@
+node_modules/
+logs/
+.idea/
+.project/
+
+public/css/
+public/js/
+
+.git
+.idea
+*.iml
+*.ipr
+*.iws
+*.log
+
+.settings
+.project
+
+# temp ignore
+*.cache
+*.diff
+*.tmp
+*.log
+*.zip
+
+# system ignore
+.DS_Store
+Thumbs.db
+
