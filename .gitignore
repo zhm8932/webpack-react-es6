@@ -5,6 +5,7 @@ logs/
 
 public/css/
 public/js/
+dist/
 
 .git
 .idea
